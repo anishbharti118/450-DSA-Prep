@@ -7,3 +7,12 @@
 ## Important Questions
 - MinMax.cpp (Array)
 - KthMinMax.cpp (Array)
+
+### Day 1 Update - 7 Questions
+- ReverseTheArray.cpp
+- SegregateElements.cpp
+- Sort012.cpp
+- MinMax.cpp
+- KthMinMax.cpp
+- DoUnion.cpp
+- CyclicRotate1.cpp
