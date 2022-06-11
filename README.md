@@ -7,6 +7,7 @@
 ## Important Questions
 - MinMax.cpp (Array)
 - KthMinMax.cpp (Array)
+- KadanesAlgorithm.cpp (Array)
 
 ### Day 1 Update - 7 Questions
 - ReverseTheArray.cpp
@@ -16,3 +17,7 @@
 - KthMinMax.cpp
 - DoUnion.cpp
 - CyclicRotate1.cpp
+
+### Day 2 Update - 2 Question
+- KadanesAlgorithm.cpp
+- FindDuplicate.cpp
